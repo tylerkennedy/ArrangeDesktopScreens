@@ -4,7 +4,7 @@ I created this tool as an easy way to arrange my desktop monitor screens.
 
 ## Problem
 
-I have a desktop monitor that I connect to my Macbook. I usually set my Macbook on my desk below the monitory so the screens are stacked on top of each other vertically.
+I have a desktop monitor that I connect to my Macbook. I usually set my Macbook on my desk below the monitor so the screens are stacked on top of each other vertically.
 
 Like this:
 
